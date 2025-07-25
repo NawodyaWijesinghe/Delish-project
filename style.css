@@ -69,7 +69,7 @@ nav a:hover {
 /* Hero Section */
 .hero {
   position: relative;
-  background: url('slider.jpg') no-repeat center center/cover;
+  background: url('img/slider.jpg') no-repeat center center/cover;
   height: 90vh;
   display: flex;
   align-items: center;
@@ -1742,7 +1742,7 @@ body {
 
 /*about us*/
 .about-banner {
-  background: url('aboutus.jpg') no-repeat center center/cover;
+  background: url('img/aboutus.jpg') no-repeat center center/cover;
   color: #fff;
   text-align: center;
   padding: 100px 20px;
@@ -2138,7 +2138,7 @@ body {
 
 
 .Contact-banner {
-  background: url('contact.jpg') no-repeat center center/cover;
+  background: url('img/contact.jpg') no-repeat center center/cover;
   color: #fff;
   text-align: center;
   padding: 100px 20px;
@@ -2401,7 +2401,7 @@ body {
 /*TEAM*/
 
         .ourchef-banner {
-            background: url('Our\ chef.jpg') no-repeat center center/cover; 
+            background: url('img/Our\ chef.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -2566,7 +2566,7 @@ body {
 
          
         .ChefDetails-banner {
-            background: url('chef details.jpg') no-repeat center center/cover; 
+            background: url('img/chef details.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -2694,7 +2694,7 @@ body {
         /*resavtion*/
 
 .BookATable-banner {
-            background: url('book\ table.jpg') no-repeat center center/cover; 
+            background: url('img/book\ table.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -2853,7 +2853,7 @@ body {
             flex: 1;
             min-width: 200px; 
             position: relative;
-            background: url('BookTable1.jpg') no-repeat center center/cover;
+            background: url('img/BookTable1.jpg') no-repeat center center/cover;
             min-height: 500px; 
             border-top-left-radius: 12px; 
             border-bottom-left-radius: 12px; 
@@ -2929,7 +2929,7 @@ body {
         /*BLOG*/
 
        .News-banner {
-            background: url('news.jpg') no-repeat center center/cover; 
+            background: url('img/news.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -3302,7 +3302,7 @@ body {
 
 
         .BlogDetails-banner {
-            background: url('BLOGDETAILS.jpg') no-repeat center center/cover; 
+            background: url('img/BLOGDETAILS.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -4007,7 +4007,7 @@ body {
 
 
         .GalleryPage-banner {
-            background: url('GalleryPage.jpg') no-repeat center center/cover; 
+            background: url('img/GalleryPage.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -4143,7 +4143,7 @@ body {
 
 
         .menupage-banner {
-            background: url('menupage.jpg') no-repeat center center/cover; 
+            background: url('img/menupage.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -4549,7 +4549,7 @@ body {
 
 
         .ShopDetails-banner {
-            background: url('ShopDetails.jpg') no-repeat center center/cover; 
+            background: url('img/ShopDetails.jpg') no-repeat center center/cover;
             color: #fff;
             text-align: center;
             padding: 100px 20px;
@@ -4789,7 +4789,7 @@ body {
         /*SHOP*/
 
          .ShopPage-banner {
-            background: url('ShopPage.jpg') no-repeat center center/cover; 
+            background: url('img/ShopPage.jpg') no-repeat center center/cover; 
             color: #fff;
             text-align: center;
             padding: 100px 20px;
